@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = lamim@protonmail.com
+	name = Isabel Lamim
